@@ -1,1 +1,1 @@
-# LearningTypescript
+# TypescriptProject
